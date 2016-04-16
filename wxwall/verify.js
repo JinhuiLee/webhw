@@ -1,7 +1,7 @@
 var PORT = 9529;
 var http = require("http");
 var qs = require("qs");
-
+var pServer= require("./pageServer");
 var TOKEN="jinhui"
 
 var getUserInfo = require('./lib/user').getUserInfo;
@@ -49,7 +49,7 @@ var server=http.createServer(function (request,response) {
               console.log("HERE1*************");
               //将消息通过websocket广播
               console.log("HERE2*************");
-              var res = replyText(result, '消息推送成功！');
+              var res = replyText(result, '消息推送成功！<a href="http://123.206.79.164/index.html">查看微信墙</a>');
               console.log("HERE3**********");
               response.end(res);
 	      wss.broadcast(result);
@@ -60,5 +60,5 @@ var server=http.createServer(function (request,response) {
     });
   }
 });
-
+pServer.start();
 server.listen(PORT);

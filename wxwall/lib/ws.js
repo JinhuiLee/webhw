@@ -17,6 +17,10 @@ wss.on('connection', function connection(ws) {
 });
 
 wss.broadcast = function broadcast(data) {
+  if (data.xml.Content=="clear") {
+    buffer=[];
+    return;
+  }
   wss.clients.forEach(function each(client) {
     client.send(JSON.stringify(data));
   });
