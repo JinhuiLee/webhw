@@ -1,2 +1,203 @@
 Socket server runing at port: 10001.
 pageServer at 3001
+Socket server runing at port: 10001.
+pageServer at 3001
+Socket server runing at port: 10001.
+pageServer at 3001
+{ signature: '4ea9eace54f4fc1461b364acd52ca9c72d12b5df',
+  timestamp: '1460791628',
+  nonce: '621662315' }
+Token -->  jinhui
+finish resolve
+HERE**************
+HERE1*************
+HERE2*************
+HERE4************
+ready to send back info
+HERE3**********
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+{ signature: '8141858ee9cf6559d60cc13cd68ec4a3f911f0a1',
+  timestamp: '1460791778',
+  nonce: '472511456' }
+Token -->  jinhui
+finish resolve
+HERE**************
+HERE1*************
+HERE2*************
+HERE4************
+ready to send back info
+HERE3**********
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+message n 2
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+message n 2
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+message n 2
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+message n 2
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+message n 2
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+message n 2
+{ signature: 'edd183c386d020d7f42ce36b5903ce4996815cb0',
+  timestamp: '1460799438',
+  nonce: '1785715949' }
+Token -->  jinhui
+finish resolve
+HERE**************
+HERE1*************
+HERE2*************
+HERE4************
+ready to send back info
+HERE3**********
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+sent [object Object]
+message n 3
+{ signature: '71a879e1dcc9fef1c418b64d40d5c4befabe2b65',
+  timestamp: '1460805021',
+  nonce: '1293179572' }
+Token -->  jinhui
+finish resolve
+HERE**************
+HERE1*************
+HERE2*************
+HERE4************
+ready to send back info
+HERE3**********
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+message n 4
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+message n 4
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+message n 4
+{ signature: 'd9c00598c7cb27ef675111afafed8d44c4140653',
+  timestamp: '1460806600',
+  nonce: '1912454884' }
+Token -->  jinhui
+finish resolve
+HERE**************
+HERE1*************
+HERE2*************
+HERE4************
+ready to send back info
+HERE3**********
+new client connected.
+received: Hello, Server!
+message n 0
+{ signature: '22b2df95a1ff072885ca9f8c6db21bdcfb7ba8b1',
+  timestamp: '1460806630',
+  nonce: '1671217180' }
+Token -->  jinhui
+finish resolve
+HERE**************
+HERE1*************
+HERE2*************
+HERE4************
+ready to send back info
+HERE3**********
+{ signature: '04372a7ead5651bff712ed377b6f0487cb81195c',
+  timestamp: '1460806636',
+  nonce: '883568713' }
+Token -->  jinhui
+finish resolve
+HERE**************
+HERE1*************
+HERE2*************
+HERE4************
+ready to send back info
+HERE3**********
+{ signature: 'd726885c7a36575fd71ad341561b3e681a4e2a45',
+  timestamp: '1460806647',
+  nonce: '888112327' }
+Token -->  jinhui
+finish resolve
+HERE**************
+HERE1*************
+HERE2*************
+HERE4************
+ready to send back info
+HERE3**********
+{ signature: '9228873a4884105bbc1d6b508bc0320abd894bb5',
+  timestamp: '1460807283',
+  nonce: '429330882' }
+Token -->  jinhui
+finish resolve
+HERE**************
+HERE1*************
+HERE2*************
+HERE4************
+ready to send back info
+HERE3**********
+new client connected.
+received: Hello, Server!
+message n 0
+new client connected.
+received: Hello, Server!
+message n 0
+new client connected.
+received: Hello, Server!
+message n 0
+new client connected.
+received: Hello, Server!
+message n 0
+new client connected.
+received: Hello, Server!
+message n 0
+new client connected.
+received: Hello, Server!
+message n 0
