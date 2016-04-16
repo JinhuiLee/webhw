@@ -8,7 +8,7 @@ var getUserInfo = require('./lib/user').getUserInfo;
 var replyText = require('./lib/reply').replyText; 
 
 var wss = require('./lib/ws.js').wss;
-
+var msgBuffer= require('./lib/ws.js').buffer;
 
 function checkSignature(params,token){
   var key=[token,params.timestamp,params.nonce].sort().join('');
@@ -44,12 +44,16 @@ var server=http.createServer(function (request,response) {
           getUserInfo(result.xml.FromUserName[0])
             .then(function(userInfo){
               //获得用户信息，合并到消息中
+	      console.log("HERE**************");
               result.user = userInfo;
+              console.log("HERE1*************");
               //将消息通过websocket广播
-              wss.broadcast(result);
+              console.log("HERE2*************");
               var res = replyText(result, '消息推送成功！');
-              console.log("success");
+              console.log("HERE3**********");
               response.end(res);
+	      wss.broadcast(result);
+	      msgBuffer.push(result);
             })
         }
       });

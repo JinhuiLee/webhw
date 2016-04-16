@@ -1,9 +1,9 @@
 function replyText(msg, replyText){
   if(msg.xml.MsgType[0] !== 'text'){
+    console.log("not a text ");
     return '';
   }
-  console.log(msg);
-
+  console.log("HERE4************");
   //将要返回的消息通过一个简单的tmpl模板（npm install tmpl）返回微信
   var tmpl = require('tmpl');
   var replyTmpl = '<xml>' +
@@ -13,7 +13,7 @@ function replyText(msg, replyText){
     '<MsgType><![CDATA[{type}]]></MsgType>' +
     '<Content><![CDATA[{content}]]></Content>' +
     '</xml>';
-
+  console.log("ready to send back info");
   return tmpl(replyTmpl, {
     toUser: msg.xml.FromUserName[0],
     fromUser: msg.xml.ToUserName[0],
