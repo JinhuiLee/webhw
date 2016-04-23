@@ -10,7 +10,7 @@ app.use(session({
 	secret: 'keyboard cet',
 	resave: 'false',
 	saveUninitialized: true,
-	store: new myStore()
+	store: new myStore("session-dir")
 }));
 
 app.use(function(req,res,next){

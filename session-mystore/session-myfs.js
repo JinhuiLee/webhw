@@ -1,19 +1,18 @@
 var fs = require('fs');
 var path = require('path');
-var sessionDir="./session";
+
 
 
 
 module.exports=function(session) {
-
+  var sessionDir="./session";
   var Store = session.Store;
 
 
   console.log("myfs");
   function MyFStore(options) {
     var self = this;
-
-    options = options || {};
+    sessionDir = options;
     Store.call(self, options);
   }
 
