@@ -14,7 +14,7 @@ function getToken(appID, appSecret){
     if(!token || token.timeout < Date.now()){
       request('https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid='+appID+'&secret=' + appSecret, function(err, res, data){
         var result = JSON.parse(data);
-        result.timeout = Date.now() + 7000000;
+        result.timeout = Date.now() + 700000;
         //更新token并缓存
         //因为access_token的有效期是7200秒，每天可以取2000次
         //所以差不多缓存7000秒左右肯定是够了

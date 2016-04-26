@@ -201,3 +201,709 @@ message n 0
 new client connected.
 received: Hello, Server!
 message n 0
+Socket server runing at port: 10001.
+pageServer at 3001
+{ signature: '72ecf266053e7130fafa2022056044c27cfd897e',
+  timestamp: '1460820783',
+  nonce: '1765915778' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwCre4xVhag2J8Jxmbe4JDB8]]></FromUserName>
+<CreateTime>1460820783</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好]]></Content>
+<MsgId>6274177488705618978</MsgId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info
+{ signature: '6a08f083cc2c99c9b5fa4de9aae74f1072f4236c',
+  timestamp: '1460820785',
+  nonce: '23101641' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwCre4xVhag2J8Jxmbe4JDB8]]></FromUserName>
+<CreateTime>1460820785</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[测试]]></Content>
+<MsgId>6274177497295553572</MsgId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info
+{ signature: '7cc01daf4f2f54b7ecb8c4912e7340984ab74a0a',
+  timestamp: '1460820793',
+  nonce: '698168739' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwCre4xVhag2J8Jxmbe4JDB8]]></FromUserName>
+<CreateTime>1460820792</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[支持历史消息]]></Content>
+<MsgId>6274177527360324647</MsgId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+sent [object Object]
+message n 3
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+sent [object Object]
+message n 3
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+sent [object Object]
+message n 3
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+sent [object Object]
+message n 3
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+sent [object Object]
+message n 3
+{ signature: '62f5cd6d19a0afd75db7aa6768224751aeaf2d3b',
+  timestamp: '1460820850',
+  nonce: '871940780' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwCre4xVhag2J8Jxmbe4JDB8]]></FromUserName>
+<CreateTime>1460820849</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[好]]></Content>
+<MsgId>6274177772173460532</MsgId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+message n 4
+Socket server runing at port: 10001.
+pageServer at 3001
+new client connected.
+received: Hello, Server!
+message n 0
+{ signature: '81682ffac5958b3cd962d146b175889f62ec3d37',
+  timestamp: '1460820906',
+  nonce: '1191686802' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwCre4xVhag2J8Jxmbe4JDB8]]></FromUserName>
+<CreateTime>1460820906</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好]]></Content>
+<MsgId>6274178016986596411</MsgId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+Socket server runing at port: 10001.
+pageServer at 3001
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::3001
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at Server._listen2 (net.js:1234:14)
+    at listen (net.js:1270:10)
+    at Server.listen (net.js:1366:5)
+    at EventEmitter.listen (/root/verify/wxwall/node_modules/express/lib/application.js:617:24)
+    at Object.start (/root/verify/wxwall/pageServer.js:13:7)
+    at Object.<anonymous> (/root/verify/wxwall/verify.js:100:9)
+    at Module._compile (module.js:409:26)
+    at Object.Module._extensions..js (module.js:416:10)
+{ signature: 'fedbf77fc04a048e547b370841a2953bb31deba4',
+  timestamp: '1460821035',
+  nonce: '240140581' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwCre4xVhag2J8Jxmbe4JDB8]]></FromUserName>
+<CreateTime>1460821035</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好]]></Content>
+<MsgId>6274178571037377632</MsgId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info
+{ signature: '8b8ced0cf00c08d160029e394ce2a1c504f9a6c4',
+  timestamp: '1460821038',
+  nonce: '22449557' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwCre4xVhag2J8Jxmbe4JDB8]]></FromUserName>
+<CreateTime>1460821038</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[测试]]></Content>
+<MsgId>6274178583922279522</MsgId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info
+{ signature: 'b6fd24eaa8c0e63e33d07564653cfee61a26fb58',
+  timestamp: '1460821041',
+  nonce: '485280175' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwCre4xVhag2J8Jxmbe4JDB8]]></FromUserName>
+<CreateTime>1460821041</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[历史]]></Content>
+<MsgId>6274178596807181412</MsgId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+message n 4
+{ signature: 'e20d724e023e884a64d5d5003864cf4073d13a91',
+  timestamp: '1460821066',
+  nonce: '1196009270' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwCre4xVhag2J8Jxmbe4JDB8]]></FromUserName>
+<CreateTime>1460821066</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[clear]]></Content>
+<MsgId>6274178704181363816</MsgId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info
+{ signature: 'a8c7e62d1121c4cc389bf9128ba2189553fa99e4',
+  timestamp: '1460821068',
+  nonce: '767957071' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwCre4xVhag2J8Jxmbe4JDB8]]></FromUserName>
+<CreateTime>1460821068</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好]]></Content>
+<MsgId>6274178712771298410</MsgId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info
+new client connected.
+received: Hello, Server!
+message n 0
+{ signature: '9ebf76e5b4b951f80a4e713658d837daba8ee735',
+  timestamp: '1460821085',
+  nonce: '931508782' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwCre4xVhag2J8Jxmbe4JDB8]]></FromUserName>
+<CreateTime>1460821085</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[测试]]></Content>
+<MsgId>6274178785785742446</MsgId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info
+new client connected.
+received: Hello, Server!
+message n 0
+Socket server runing at port: 10001.
+pageServer at 3001
+{ signature: '4b124fd2c731190f54a6b648ffd0eca03ad12bae',
+  timestamp: '1460821125',
+  nonce: '755823757' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwCre4xVhag2J8Jxmbe4JDB8]]></FromUserName>
+<CreateTime>1460821125</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好]]></Content>
+<MsgId>6274178957584434294</MsgId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info
+{ signature: 'db3c8ae579c5acbbee847a07e1a1045f319df996',
+  timestamp: '1460821127',
+  nonce: '125199808' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwCre4xVhag2J8Jxmbe4JDB8]]></FromUserName>
+<CreateTime>1460821127</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[测试]]></Content>
+<MsgId>6274178966174368887</MsgId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+message n 2
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+message n 2
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+message n 2
+{ signature: 'cb44cc8318b1169b7009716e37e7867591ddeeda',
+  timestamp: '1460864464',
+  nonce: '1750775953' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwCre4xVhag2J8Jxmbe4JDB8]]></FromUserName>
+<CreateTime>1460864463</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[测试]]></Content>
+<MsgId>6274365092877110666</MsgId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+sent [object Object]
+message n 3
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+sent [object Object]
+message n 3
+{ signature: '499f4a2474a51ee739845e795024ff91e22b2e62',
+  timestamp: '1460903323',
+  nonce: '991664640' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwCre4xVhag2J8Jxmbe4JDB8]]></FromUserName>
+<CreateTime>1460903322</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[测试]]></Content>
+<MsgId>6274531991011270274</MsgId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+message n 4
+{}
+Token -->  jinhui
+{ signature: '4f993387c5538404e43c2df24a5263dcce9777ae',
+  timestamp: '1461407037',
+  nonce: '828742041' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwCre4xVhag2J8Jxmbe4JDB8]]></FromUserName>
+<CreateTime>1461407037</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[Hug]]></Content>
+<MsgId>6276695430462868980</MsgId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+message n 5
+{ signature: 'c75ed0e93a47b1f5a254d055190f44b5b7ab8f0d',
+  timestamp: '1461408110',
+  nonce: '1245130636' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwCre4xVhag2J8Jxmbe4JDB8]]></FromUserName>
+<CreateTime>1461408110</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[H]]></Content>
+<MsgId>6276700038962777725</MsgId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+message n 6
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+message n 6
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+message n 6
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+message n 6
+{ signature: 'd5a5739e3a37c0d2cae791b65076cab5f27f366f',
+  timestamp: '1461412125',
+  nonce: '1173669643' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwJGf0JAlmAkOdD2OADjv32U]]></FromUserName>
+<CreateTime>1461412125</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+{ signature: 'd5a5739e3a37c0d2cae791b65076cab5f27f366f',
+  timestamp: '1461412125',
+  nonce: '1173669643' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwJGf0JAlmAkOdD2OADjv32U]]></FromUserName>
+<CreateTime>1461412125</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+{ signature: '6e123509749baf9a76363ad2f3c80b32e88739af',
+  timestamp: '1461412131',
+  nonce: '1615889279' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwJGf0JAlmAkOdD2OADjv32U]]></FromUserName>
+<CreateTime>1461412131</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[哈哈]]></Content>
+<MsgId>6276717309026275411</MsgId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info
+{ signature: 'd5a5739e3a37c0d2cae791b65076cab5f27f366f',
+  timestamp: '1461412125',
+  nonce: '1173669643' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwJGf0JAlmAkOdD2OADjv32U]]></FromUserName>
+<CreateTime>1461412125</CreateTime>
+<MsgType><![CDATA[event]]></MsgType>
+<Event><![CDATA[subscribe]]></Event>
+<EventKey><![CDATA[]]></EventKey>
+</xml>
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+message n 7
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+message n 7
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+message n 7
+Socket server runing at port: 10001.
+pageServer at 3001
+Socket server runing at port: 10001.
+pageServer at 3001
+new client connected.
+received: Hello, Server!
+message n 0
+{ signature: 'a24490d76421ea7b4452a95a8781d34d2f6a89d3',
+  timestamp: '1461633199',
+  nonce: '24481586' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwCre4xVhag2J8Jxmbe4JDB8]]></FromUserName>
+<CreateTime>1461633199</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[在]]></Content>
+<MsgId>6277666788857289973</MsgId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+{ signature: '0543094e9b3302da904becdea371f422da4fd9a6',
+  timestamp: '1461643175',
+  nonce: '870674208' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwCre4xVhag2J8Jxmbe4JDB8]]></FromUserName>
+<CreateTime>1461643175</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好]]></Content>
+<MsgId>6277709635451038175</MsgId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+message n 2
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+message n 2
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+message n 2

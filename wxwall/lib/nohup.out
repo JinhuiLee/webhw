@@ -1,0 +1,286 @@
+Socket server runing at port: 10001.
+pageServer at 3001
+{ signature: '93ba57946043e40796d20a8741216a7e298f1b39',
+  timestamp: '1460819323',
+  nonce: '611894470' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwCre4xVhag2J8Jxmbe4JDB8]]></FromUserName>
+<CreateTime>1460819323</CreateTime>
+<MsgType><![CDATA[voice]]></MsgType>
+<MediaId><![CDATA[sFm5u77zMqcOvaiUCe4wEBRbz9Q7CBEE4cprZuGq-52p6RD1-LQLeN-LQG61ECV9]]></MediaId>
+<Format><![CDATA[amr]]></Format>
+<MsgId>6274171218053366577</MsgId>
+<Recognition><![CDATA[]]></Recognition>
+</xml>
+finish resolve
+voice herer
+HERE4************
+ready to send back info
+voice: <xml><ToUserName><![CDATA[o71RrwCre4xVhag2J8Jxmbe4JDB8]]></ToUserName><FromUserName><![CDATA[gh_a857d0376bfe]]></FromUserName><CreateTime><![CDATA[1460819325545]]></CreateTime><MsgType><![CDATA[voice]]></MsgType><Voice><MediaId><![CDATA[sFm5u77zMqcOvaiUCe4wEBRbz9Q7CBEE4cprZuGq-52p6RD1-LQLeN-LQG61ECV9]]></MediaId></Voice></xml>
+new client connected.
+received: Hello, Server!
+sent [object Object]
+message n 1
+{ signature: 'c31d9fc3f7e3199034b737a999b155df7794e89e',
+  timestamp: '1460819387',
+  nonce: '1178067441' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwCre4xVhag2J8Jxmbe4JDB8]]></FromUserName>
+<CreateTime>1460819387</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好]]></Content>
+<MsgId>6274171492931273538</MsgId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info
+{ signature: 'a75b373b9fe80071a7eb4a22be7bdf26b4b2d911',
+  timestamp: '1460819393',
+  nonce: '885864702' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwCre4xVhag2J8Jxmbe4JDB8]]></FromUserName>
+<CreateTime>1460819393</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[AA]]></Content>
+<MsgId>6274171518701077319</MsgId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info
+{ signature: '074abdc67c6767adf87caa616f8d4226de28452e',
+  timestamp: '1460819399',
+  nonce: '952460379' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwCre4xVhag2J8Jxmbe4JDB8]]></FromUserName>
+<CreateTime>1460819399</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[测试]]></Content>
+<MsgId>6274171544470881098</MsgId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+message n 4
+{ signature: '23d8b3ad7611d92a2ab30de60cce842b76c0fe1e',
+  timestamp: '1460820066',
+  nonce: '1124725853' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwJit2HbGV6tJDlTetJ0RqXw]]></FromUserName>
+<CreateTime>1460820066</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[我要小晖熊的照片]]></Content>
+<MsgId>6274174409214067648</MsgId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+message n 5
+{ signature: 'f319e2ad325494c6ec04bf1c34423d8a5a87f445',
+  timestamp: '1460820090',
+  nonce: '1064260425' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwJit2HbGV6tJDlTetJ0RqXw]]></FromUserName>
+<CreateTime>1460820090</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[我要跟你说好]]></Content>
+<MsgId>6274174512293282758</MsgId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info
+{ signature: 'ab588468016420744799cc9c8d552d0f418f7f18',
+  timestamp: '1460820153',
+  nonce: '6627902' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwJit2HbGV6tJDlTetJ0RqXw]]></FromUserName>
+<CreateTime>1460820153</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/DHoxUPlBJgJKKZBe7iaGP5qqZqLlN9nwLNbG2NWFouEkJJ4icibztibtd8umflAbvTibu9fWjHgcsiam3QkNg7dyHbXw/0]]></PicUrl>
+<MsgId>6274174782876222412</MsgId>
+<MediaId><![CDATA[b0f9XMpIg6ZUx42YOrVVPF8z8tgI_Puqob73dssn2gE6jaugC1NXGfzPFKrlSIkN]]></MediaId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info
+{ signature: '1a1acd851e42863d17a31bec89e7c262dbd558b2',
+  timestamp: '1460820168',
+  nonce: '552580424' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwJit2HbGV6tJDlTetJ0RqXw]]></FromUserName>
+<CreateTime>1460820167</CreateTime>
+<MsgType><![CDATA[image]]></MsgType>
+<PicUrl><![CDATA[http://mmbiz.qpic.cn/mmbiz/DHoxUPlBJgJKKZBe7iaGP5qqZqLlN9nwLBdDJ8IEPqMPLiabsQ3icviaF5NdvibJpU8ibqGQZsib1oIAdVoXS5kibYL21g/0]]></PicUrl>
+<MsgId>6274174843005764558</MsgId>
+<MediaId><![CDATA[5DkgWvuYlG_wmcW3_dxhQSDLO02oVBsez6Z__UZ8EeEEMD-MUyCtdMyQTdpzRBiU]]></MediaId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info
+new client connected.
+received: Hello, Server!
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+sent [object Object]
+message n 8
+{ signature: '8c5e162e50add0871b861ca4b249c5ada2d6f8c8',
+  timestamp: '1460820456',
+  nonce: '1586722655' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwCre4xVhag2J8Jxmbe4JDB8]]></FromUserName>
+<CreateTime>1460820455</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[clear]]></Content>
+<MsgId>6274176079956345834</MsgId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info
+new client connected.
+received: Hello, Server!
+message n 0
+{ signature: '107f083a6002d42a1028a0e1bb393eecbaeb1c20',
+  timestamp: '1460820484',
+  nonce: '1076462882' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwCre4xVhag2J8Jxmbe4JDB8]]></FromUserName>
+<CreateTime>1460820484</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[测试]]></Content>
+<MsgId>6274176204510397423</MsgId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info
+new client connected.
+received: Hello, Server!
+message n 0
+{ signature: '392d9e58fdf23d88cebcf5110a02d82563795135',
+  timestamp: '1460820529',
+  nonce: '117008833' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwCre4xVhag2J8Jxmbe4JDB8]]></FromUserName>
+<CreateTime>1460820529</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[支持历史]]></Content>
+<MsgId>6274176397783925756</MsgId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info
+{ signature: 'ec7ce80e03c2c784744966cdb04b9a55ed0df851',
+  timestamp: '1460820546',
+  nonce: '1926563855' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwCre4xVhag2J8Jxmbe4JDB8]]></FromUserName>
+<CreateTime>1460820545</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[支持时间]]></Content>
+<MsgId>6274176466503402499</MsgId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info
+new client connected.
+received: Hello, Server!
+message n 0
+new client connected.
+received: Hello, Server!
+message n 0
+{ signature: 'b5ce64c76806f5865d535409f531a2ce3189562f',
+  timestamp: '1460820611',
+  nonce: '179471784' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwCre4xVhag2J8Jxmbe4JDB8]]></FromUserName>
+<CreateTime>1460820611</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[你好]]></Content>
+<MsgId>6274176749971244043</MsgId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info
+{ signature: '422164af1792731fd2ce008ff9f2715c3a0df561',
+  timestamp: '1460820622',
+  nonce: '494319460' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwCre4xVhag2J8Jxmbe4JDB8]]></FromUserName>
+<CreateTime>1460820622</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[历史]]></Content>
+<MsgId>6274176797215884305</MsgId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info
+{ signature: 'b4cfd6cd9336de1e5693b7bf1ded5b48473c7ad1',
+  timestamp: '1460820626',
+  nonce: '1440622985' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwCre4xVhag2J8Jxmbe4JDB8]]></FromUserName>
+<CreateTime>1460820626</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[记录]]></Content>
+<MsgId>6274176814395753492</MsgId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info
+new client connected.
+received: Hello, Server!
+message n 0
+new client connected.
+received: Hello, Server!
+message n 0
+new client connected.
+received: Hello, Server!
+message n 0
+new client connected.
+received: Hello, Server!
+message n 0
+{ signature: 'bd24c625fcf568a2be85068f3c403aeaa0daa565',
+  timestamp: '1460820685',
+  nonce: '640451491' }
+Token -->  jinhui
+<xml><ToUserName><![CDATA[gh_a857d0376bfe]]></ToUserName>
+<FromUserName><![CDATA[o71RrwCre4xVhag2J8Jxmbe4JDB8]]></FromUserName>
+<CreateTime>1460820685</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[嘎嘎]]></Content>
+<MsgId>6274177067798823967</MsgId>
+</xml>
+finish resolve
+HERE4************
+ready to send back info

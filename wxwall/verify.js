@@ -50,7 +50,7 @@ var server=http.createServer(function (request,response) {
             .then(function(userInfo){
               result.user = userInfo;
               //将消息通过websocket广播
-              var res = replyText(result, '消息推送成功！<a href="http://123.206.79.164/index.html">查看微信墙</a>');
+              var res = replyText(result, '消息推送成功！<a href="http://172.110.27.168:3001">查看微信墙</a>');
               response.end(res);
 	      wss.broadcast(result);
 	      msgBuffer.push(result);
